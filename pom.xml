@@ -10,7 +10,7 @@
       <connection>https://github.com/saravanan-na/Demo.git</connection>
       <url>scm:git:https://github.com/saravanan-na/Demo.git</url>
       <developerConnection>scm:git:https://github.com/saravanan-na/Demo.git</developerConnection>
-      <tag>1.0</tag>
+      <tag>HEAD</tag>
   </scm>
   <build>
     <plugins>
